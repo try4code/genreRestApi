@@ -18,5 +18,8 @@
   "homepage": "https://github.com/try4code/genreRestApi#readme",
   "dependencies": {
     "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
   }
 }
