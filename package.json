@@ -1,0 +1,22 @@
+{
+  "name": "basicrestfulapiexpress",
+  "version": "1.0.0",
+  "description": "creating endpoints for genres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/try4code/genreRestApi.git"
+  },
+  "author": "siva gmk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/try4code/genreRestApi/issues"
+  },
+  "homepage": "https://github.com/try4code/genreRestApi#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
